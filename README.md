@@ -5,6 +5,7 @@
 
 **B) Solución:**
   Implementé un proceso de tres pasos en general para lograr este objetivo:
+  
 *1. Preparación de datos y diseño inicial en Excel:*
   - Recopilación de datos: Comencé recopilando todos los datos de facturación desde enero de 2021 hasta la fecha actual. Esto implicó revisar diversas fuentes de archivos digitales, ya que eran 3 tipos de servicio de 25 centros operativos más 1 embotelladora.
   - Limpieza y organización de datos: Una vez recopilados, limpié y organicé los datos para garantizar su precisión y consistencia. Elimine filas duplicadas, correjí errores de formato y aseguré que todos los campos tuvieran nombres y formatos uniformes.
