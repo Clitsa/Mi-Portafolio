@@ -16,7 +16,7 @@ B) Solución:
   - Importación de datos: Importé el archivo de Excel consolidado a Power BI.
   - Modelado de datos: Creé un modelo de datos que representaba las relaciones entre las diferentes tablas de datos. Esto me permitió realizar análisis más profundos, complejos y precisos.
   - Visualizaciones: Utilicé diversas visualizaciones de Power BI, como gráficos de barras, gráficos de líneas y tablas dinámicas, para presentar los datos de facturación de manera clara, concisa y atractiva.
-  - Reportes: Agrupé los cuadros de mando y visualizaciones creadas en reportes completos que proporcionaban una visión general de los gastos de facturación de la empresa.
+  - Reportes: Agrupé los cuadros de mando y visualizaciones creadas en reportes completos (Imágenes 3, 4, 5 y 6) que proporcionaban una visión general de los gastos de facturación de la empresa.
 
 3. Gestión de los informes en Power BI:
   - Obtener Licencias Pro de Power BI: Gestioné la obtención de las licencias para los usuarios de los informes con el Área de Compras y resolví junto con TI las incidencias que surgieron para su ejecución.
