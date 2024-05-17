@@ -6,11 +6,11 @@ A) Situación:
 B) Solución:
   Implementé un proceso de tres pasos en general para lograr este objetivo:
 
- 1. Preparación de datos en Excel:
+ 1. Preparación de datos y diseño inicial en Excel:
   - Recopilación de datos: Comencé recopilando todos los datos de facturación desde enero de 2021 hasta la fecha actual. Esto implicó revisar diversas fuentes de archivos digitales, ya que eran 3 tipos de servicio de 25 centros operativos más 1 embotelladora.
   - Limpieza y organización de datos: Una vez recopilados, limpié y organicé los datos para garantizar su precisión y consistencia. Elimine filas duplicadas, correjí errores de formato y aseguré que todos los campos tuvieran nombres y formatos uniformes.
   - Consolidación de datos: Los consolidé en un único archivo de Excel para facilitar el análisis posterior.
-  - Diseñé un tablero en Excel (Imágenes 1 y 2) como esquema previo a la elaboración de los informes en Power BI. Esto me permitió definir los indicadores con claridad y consistencia, y comenzar a ajustar las visualizaciones a las necesidades de los usuarios de los informes.
+  - Creación de un tablero preliminar en Excel: Diseñé un tablero en Excel (Imágenes 1 y 2) como base para la elaboración de informes en Power BI. Esto me permitió definir los KPIs y métricas con claridad y consistencia, y comenzar a ajustar las visualizaciones a las necesidades de los usuarios, las cuales eran evidenciadas en cada reunión que teníamos para exponer los resultados del mes en curso.
 
 2. Creación de informes en Power BI:
   - Importación de datos: Importé el archivo de Excel consolidado a Power BI.
