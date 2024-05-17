@@ -25,7 +25,7 @@
   - Compartir informes: Compartí los informes con las partes interesadas, como la gerente de finanzas y los administradores de cada centro operativo, para facilitar la toma de decisiones.
   - Implementación de los reportes: Implementé mejoras y nuevas visualizaciones en los reportes para atender las nuevas necesidades que iban surgiendo de los usuarios.
 
-**C) Beneficios:**
+**C)  Beneficios:**
   
   La implementación de este proceso permitió obtener varios beneficios:
   - Análisis mejorado de gastos: Pude analizar los datos de facturación en detalle, identificando las causas de las variaciones de los gastos y generando oportunidades para optimizar la asignación de recursos.
