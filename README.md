@@ -23,7 +23,7 @@
 ***3. Gestión de los informes en Power BI:***
   - Obtener Licencias Pro de Power BI: Gestioné la obtención de las licencias para los usuarios de los informes con el Área de Compras y resolví junto con TI las incidencias que surgieron para su ejecución.
   - Compartir informes: Compartí los informes con las partes interesadas, como la gerente de finanzas y los administradores de cada centro operativo y así facilitar la toma de decisiones.
-  - Implementación de los reportes: Implementé mejoras y nuevas visualizaciones en los reportes para atender las nuevas necesidades que iban surgiendo de los usuarios.
+  - Implementación de los reportes: Implementé mejoras y nuevas visualizaciones en los reportes para atender las nuevas necesidades de información que iban surgiendo de los usuarios.
 
 **C)  Beneficios:**
   
