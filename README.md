@@ -1,4 +1,4 @@
-_ _**CASO DE USO N°1**_ _
+_**CASO DE USO N°1**_
 
 **A) Situación:**
   En noviembre de 2022 una empresa de bebidas requería reportes de gestión de gastos completos y precisos desde enero de 2021 hasta la fecha actual. Estos informes eran esenciales para analizar patrones de gasto, identificar áreas de ahorro potencial y tomar decisiones informadas sobre la asignación de recursos.
