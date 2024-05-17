@@ -1,9 +1,11 @@
 **CASO DE USO N°1**
 
 **A) Situación:**
+  
   En noviembre de 2022 una empresa de bebidas requería reportes de gestión de gastos completos y precisos desde enero de 2021 hasta la fecha actual. Estos informes eran esenciales para analizar patrones de gasto, identificar áreas de ahorro potencial y tomar decisiones informadas sobre la asignación de recursos.
 
 **B) Solución:**
+  
   Implementé un proceso de tres pasos en general para lograr este objetivo:
   
 *1. Preparación de datos y diseño inicial en Excel:*
@@ -24,10 +26,12 @@
   - Implementación de los reportes: Implementé mejoras y nuevas visualizaciones en los reportes para atender las nuevas necesidades que iban surgiendo de los usuarios.
 
 **C) Beneficios:**
+  
   La implementación de este proceso permitió obtener varios beneficios:
   - Análisis mejorado de gastos: Pude analizar los datos de facturación en detalle, identificando las causas de las variaciones de los gastos y generando oportunidades para optimizar la asignación de recursos.
   - Mayor visibilidad de patrones de gasto: Las visualizaciones de Power BI facilitaron la identificación de tendencias y anomalías en los patrones de gasto de la empresa.
   - Reportes completos y dinámicos: Creé reportes completos, interactivos y fáciles de entender que fueron bien recibidos por las partes interesadas.
 
 **D) Conclusión:**
+  
   La creación de informes de gestión de gastos en Power BI resultó ser una experiencia enriquecedora que profundizó mi conocimiento en el análisis financiero. Al seguir los pasos descritos en este caso de uso y utilizar las herramientas y técnicas adecuadas, pude solucionar la necesidad de contar con estos informes para la toma de decisiones informadas de la empresa de bebidas.
