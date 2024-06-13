@@ -17,8 +17,8 @@
 ***2. Creación de informes en Power BI:***
   - Importación de datos: Importé el archivo de Excel consolidado a Power BI.
   - Modelado de datos: Creé un modelo de datos que representaba las relaciones entre las diferentes tablas de datos. Esto me permitió realizar análisis más profundos, complejos y precisos.
-  - Visualizaciones: Utilicé diversas visualizaciones de Power BI, como gráficos de barras, de líneas, circular y matrices, para presentar los datos de facturación de manera clara, concisa y atractiva.
-  - Reportes: Agrupé los cuadros de mando y visualizaciones creadas en reportes completos **(Imágenes 3, 4, 5 y 6)** que proporcionaban una visión general de los gastos de facturación de la empresa.
+  - Visualizaciones: Utilicé diversas visualizaciones de Power BI, como gráficos de barras, de líneas, circular y matrices, para presentar los datos de manera clara, concisa y atractiva.
+  - Reportes: Agrupé los cuadros de mando y visualizaciones creadas en reportes completos **(Imágenes 3, 4, 5 y 6)** que proporcionaban una visión general de los gastos de la empresa.
 
 ***3. Gestión de los informes en Power BI:***
   - Obtener Licencias Pro de Power BI: Gestioné la obtención de las licencias para los usuarios de los informes con el Área de Compras y resolví junto con TI las incidencias que surgieron para su ejecución.
@@ -28,7 +28,7 @@
 **C)  Beneficios:**
   
   La implementación de este proceso permitió obtener varios beneficios:
-  - Análisis mejorado de gastos: Pude analizar los datos de facturación en detalle, identificando las causas de las variaciones de los gastos y generando oportunidades para optimizar la asignación de recursos.
+  - Análisis mejorado de gastos: Pude analizar los datos en detalle, identificando las causas de las variaciones de los gastos y generando oportunidades para optimizar la asignación de recursos.
   - Mayor visibilidad de patrones de gasto: Las visualizaciones de Power BI facilitaron la identificación de tendencias y anomalías en los patrones de gasto de la empresa.
   - Reportes completos y dinámicos: Creé reportes completos, interactivos y fáciles de entender que fueron bien recibidos por las partes interesadas.
 
