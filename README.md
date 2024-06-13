@@ -17,7 +17,7 @@
 ***2. Creación de informes en Power BI:***
   - Importación de datos: Importé el archivo de Excel consolidado a Power BI.
   - Modelado de datos: Creé un modelo de datos que representaba las relaciones entre las diferentes tablas de datos. Esto me permitió realizar análisis más profundos, complejos y precisos.
-  - Visualizaciones: Utilicé diversas visualizaciones de Power BI, como gráficos de barras, gráficos de líneas y tablas dinámicas, para presentar los datos de facturación de manera clara, concisa y atractiva.
+  - Visualizaciones: Utilicé diversas visualizaciones de Power BI, como gráficos de barras, de líneas, circular y matrices, para presentar los datos de facturación de manera clara, concisa y atractiva.
   - Reportes: Agrupé los cuadros de mando y visualizaciones creadas en reportes completos **(Imágenes 3, 4, 5 y 6)** que proporcionaban una visión general de los gastos de facturación de la empresa.
 
 ***3. Gestión de los informes en Power BI:***
@@ -34,4 +34,4 @@
 
 **D) Conclusión:**
   
-  La creación de informes de gestión de gastos en Power BI resultó ser una experiencia enriquecedora que profundizó mi conocimiento en el análisis financiero. Al seguir los pasos descritos en este caso de uso y utilizar las herramientas y técnicas adecuadas, pude solucionar la necesidad de contar con estos informes para la toma de decisiones informadas de la empresa de bebidas.
+  La creación de informes de gestión de gastos en Power BI resultó ser una experiencia enriquecedora que profundizó mis conocimientos y destrezas en análisis de datos. Al seguir los pasos descritos en este caso de uso y utilizar las herramientas y técnicas adecuadas, pude solucionar la necesidad de contar con estos informes para la toma de decisiones informadas de la empresa de bebidas.
