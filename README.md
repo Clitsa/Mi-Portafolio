@@ -53,7 +53,7 @@ Observé dos conjuntos de KPI: KPI por tienda y KPI por colaborador, por lo que 
 - Objetivo: Calcular el pago total de cada colaborador en base a su porcentaje de cumplimiento individual de los KPI.
 - Procedimiento:
   Importé los datos de KPI por colaborador.
-  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador en cada KPI.
+  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador por KPI.
   Creé tablas dinámicas **(imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
   Generé una columna con fórmulas **(imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
 - Beneficios:
