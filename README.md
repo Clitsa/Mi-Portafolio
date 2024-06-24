@@ -1,4 +1,4 @@
-**CASO DE USO N°1**
+**CASO DE USO N°1**: **CREACIÓN DE REPORTES DE GESTIÓN**
 
 **A) Situación:**
   
