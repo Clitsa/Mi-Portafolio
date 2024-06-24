@@ -52,10 +52,10 @@ Observé dos conjuntos de KPI: KPI por tienda y KPI por colaborador, por lo que 
 
 - Objetivo: Calcular el pago total de cada colaborador en base a su porcentaje de cumplimiento individual de los KPI.
 - Procedimiento:
-  Importar datos de KPI por colaborador.
-  Crear columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador en cada KPI.
-  Crear tablas dinámicas **(imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
-  Generar una columna con fórmulas **(imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
+  Importé los datos de KPI por colaborador.
+  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador en cada KPI.
+  Creé tablas dinámicas **(imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
+  Generé una columna con fórmulas **(imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
 - Beneficios:
 Medir el pago basado en el rendimiento individual.
 Incentivar el logro de objetivos específicos por parte de los colaboradores.
@@ -64,24 +64,22 @@ Incentivar el logro de objetivos específicos por parte de los colaboradores.
 
 - Objetivo: Determinar el porcentaje de cumplimiento general de cada tienda en base a los KPI.
 - Procedimiento:
-  Importar datos de KPI por tienda, limpiar la data y filtrar solo las tiendas activas del canal moderno.
-  Crear columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(imagen 9)**.
+  Importé los datos de KPI por tienda, limpiar la data y filtrar solo las tiendas activas del canal moderno.
+  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(imagen 9)**.
 - Beneficios:
 Identifica tiendas con bajo rendimiento para implementar acciones correctivas.
 Permite establecer comparaciones entre el rendimiento de las tiendas.
 
 ***3) Integración de plantillas:***
 
-Se creó una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(imagen 10)**.
+Creé una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(imagen 10)**.
 Esta plantilla final mostraba el pago total de cada colaborador, considerando tanto su desempeño individual como el cumplimiento general de la tienda.
-La plantilla final proporcionaba una visión completa del rendimiento individual y por tienda, facilitando la toma de decisiones informadas para el pago de variables.
+La plantilla final proporcionó una visión completa del rendimiento individual y por tienda, facilitando la toma de decisiones informadas para el pago de variables.
 
 **C) Resultados:**
 
-- Se automatizó el proceso de cálculo y pago de variables, eliminando errores manuales y mejorando la eficiencia.
-- Se incrementó la transparencia y la equidad en el sistema de pago de variables.
-- Se obtuvo una mejor comprensión del rendimiento individual y por tienda, permitiendo identificar áreas de mejora y oportunidades de incentivo.
-- Se fomentó la motivación y el compromiso de los colaboradores al vincular directamente su pago con el logro de objetivos.
+- Automaticé el proceso de cálculo y pago de variables, eliminando errores manuales y mejorando la eficiencia.
+- Proporcioné una mejor comprensión del rendimiento individual y por tienda, permitiendo identificar áreas de mejora y oportunidades de incentivo.
   
 **D)Conclusión:**
 
