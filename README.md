@@ -64,7 +64,7 @@ Incentivar el logro de objetivos específicos por parte de los colaboradores.
 
 - Objetivo: Determinar el porcentaje de cumplimiento general de cada tienda en base a los KPI.
 - Procedimiento:
-  Importé los datos de KPI por tienda, limpiar la data y filtrar solo las tiendas activas del canal moderno.
+  Importé los datos de KPI por tienda, limpiar la data y filtré solo las tiendas activas del canal moderno.
   Creé columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(imagen 9)**.
 - Beneficios:
 Identifica tiendas con bajo rendimiento para implementar acciones correctivas.
@@ -73,7 +73,7 @@ Permite establecer comparaciones entre el rendimiento de las tiendas.
 ***3) Integración de plantillas:***
 
 Creé una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(imagen 10)**.
-Esta plantilla final mostraba el pago total de cada colaborador, considerando tanto su desempeño individual como el cumplimiento general de la tienda.
+Esta plantilla final muestra el pago total de cada colaborador, considerando tanto su desempeño individual como el cumplimiento general de la tienda.
 La plantilla final proporcionó una visión completa del rendimiento individual y por tienda, facilitando la toma de decisiones informadas para el pago de variables.
 
 **C) Resultados:**
@@ -84,3 +84,6 @@ La plantilla final proporcionó una visión completa del rendimiento individual 
 **D)Conclusión:**
 
 La creación de plantillas de pago de variables automatizadas utilizando herramientas de análisis de datos representó una solución efectiva para la empresa. Este caso de uso demuestra el poder de los datos y las herramientas analíticas para optimizar procesos, mejorar la toma de decisiones y alcanzar mejores resultados.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**CASO DE USO N°3: CREACIÓN DE UNA MACRO QUE COMPARA GEOLOCALIZACIONES REALIZADAS VS ESPERADAS**
