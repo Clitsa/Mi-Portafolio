@@ -36,7 +36,7 @@
   
   La creación de informes de gestión de gastos en Power BI resultó ser una experiencia enriquecedora que profundizó mis conocimientos y destrezas en análisis de datos. Al seguir los pasos descritos en este caso de uso y utilizar las herramientas y técnicas adecuadas, pude solucionar la necesidad de contar con estos informes para la toma de decisiones informadas de la empresa de bebidas.
 
-  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
 **CASO DE USO N°2**: **CREACIÓN DE PLANTILLAS DE PAGO VARIABLE**
 
