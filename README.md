@@ -36,6 +36,8 @@
   
   La creación de informes de gestión de gastos en Power BI resultó ser una experiencia enriquecedora que profundizó mis conocimientos y destrezas en análisis de datos. Al seguir los pasos descritos en este caso de uso y utilizar las herramientas y técnicas adecuadas, pude solucionar la necesidad de contar con estos informes para la toma de decisiones informadas de la empresa de bebidas.
 
+  
+
 **CASO DE USO N°2**: **CREACIÓN DE PLANTILLAS DE PAGO**
 
 **A) Situación:**
@@ -50,10 +52,10 @@ Observé dos conjuntos de KPI: KPI por tienda y KPI por colaborador, por lo que 
 
 - Objetivo: Calcular el pago total de cada colaborador en base a su porcentaje de cumplimiento individual de los KPI.
 - Procedimiento:
-a) Importar datos de KPI por colaborador.
-b) Crear columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador en cada KPI.
-c) Crear tablas dinámicas **(imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
-d) Generar una columna con fórmulas **(imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
+  Importar datos de KPI por colaborador.
+  Crear columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador en cada KPI.
+  Crear tablas dinámicas **(imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
+  Generar una columna con fórmulas **(imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
 - Beneficios:
 Medir el pago basado en el rendimiento individual.
 Incentivar el logro de objetivos específicos por parte de los colaboradores.
@@ -62,16 +64,15 @@ Incentivar el logro de objetivos específicos por parte de los colaboradores.
 
 - Objetivo: Determinar el porcentaje de cumplimiento general de cada tienda en base a los KPI.
 - Procedimiento:
-a) Importar datos de KPI por tienda.
-b) Crear columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda.
-c) Crear columnas con fórmulas para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
+  Importar datos de KPI por tienda, limpiar la data y filtrar solo las tiendas activas del canal moderno.
+  Crear columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(imagen 9)**.
 - Beneficios:
 Identifica tiendas con bajo rendimiento para implementar acciones correctivas.
 Permite establecer comparaciones entre el rendimiento de las tiendas.
 
 ***3) Integración de plantillas:***
 
-Se creó una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(imagen 9)**.
+Se creó una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(imagen 10)**.
 Esta plantilla final mostraba el pago total de cada colaborador, considerando tanto su desempeño individual como el cumplimiento general de la tienda.
 La plantilla final proporcionaba una visión completa del rendimiento individual y por tienda, facilitando la toma de decisiones informadas para el pago de variables.
 
