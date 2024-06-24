@@ -35,3 +35,54 @@
 **D) Conclusión:**
   
   La creación de informes de gestión de gastos en Power BI resultó ser una experiencia enriquecedora que profundizó mis conocimientos y destrezas en análisis de datos. Al seguir los pasos descritos en este caso de uso y utilizar las herramientas y técnicas adecuadas, pude solucionar la necesidad de contar con estos informes para la toma de decisiones informadas de la empresa de bebidas.
+
+**CASO DE USO N°2**: **CREACIÓN DE PLANTILLAS DE PAGO PARA LOS GESTORES DEL CANAL MODERNO DE P&G**
+
+**A) Situación:**
+
+La empresa necesitaba un nuevo sistema para calcular y pagar las variables de los colaboradores del canal moderno ya que los KPI habían cambiado y sus escalas de pago también. 
+
+**B) Solución:**
+
+Analizando las bases de datos observé dos conjuntos de KPI: KPI por tienda y KPI por colaborador.
+Se diseñaron dos plantillas de pago de variables automatizadas utilizando herramientas de análisis de datos:
+
+***1) Plantilla 1: Consolidación de pagos por cumplimiento de colaborador***
+
+- Objetivo: Calcular el pago total de cada colaborador en base a su porcentaje de cumplimiento individual de los KPI.
+- Procedimiento:
+a) Importar datos de KPI por colaborador.
+b) Crear columnas formuladas para obtener el porcentaje de cumplimiento de cada colaborador en cada KPI.
+c) Crear columnas formuladas para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
+d) Generar una columna formuladas para el pago total por colaborador.
+- Beneficios:
+Medir el pago basado en el rendimiento individual.
+Incentiva el logro de objetivos específicos por parte de los colaboradores.
+
+***2) Plantilla 2: Cálculo del porcentaje de cumplimiento por tienda***
+
+- Objetivo: Determinar el porcentaje de cumplimiento general de cada tienda en base a los KPI.
+- Procedimiento:
+a) Importar datos de KPI por tienda.
+b) Crear una columna calculada para el porcentaje de cumplimiento por tienda.
+c) Utilizar tablas dinámicas para agrupar los resultados por tienda y obtener el porcentaje de cumplimiento general.
+- Beneficios:
+Identifica tiendas con bajo rendimiento para implementar acciones correctivas.
+Permite establecer comparaciones entre el rendimiento de las tiendas.
+
+***3) Integración de plantillas:***
+
+Se creó una plantilla final que consolidaba los resultados de las dos plantillas anteriores.
+Esta plantilla final mostraba el pago total de cada colaborador, considerando tanto su desempeño individual como el cumplimiento general de la tienda.
+La plantilla final proporcionaba una visión completa del rendimiento individual y por tienda, facilitando la toma de decisiones informadas para el pago de variables.
+
+**C) Resultados:**
+
+- Se automatizó el proceso de cálculo y pago de variables, eliminando errores manuales y mejorando la eficiencia.
+- Se incrementó la transparencia y la equidad en el sistema de pago de variables.
+- Se obtuvo una mejor comprensión del rendimiento individual y por tienda, permitiendo identificar áreas de mejora y oportunidades de incentivo.
+- Se fomentó la motivación y el compromiso de los colaboradores al vincular directamente su pago con el logro de objetivos.
+  
+**D)Conclusión:**
+
+La creación de plantillas de pago de variables automatizadas utilizando herramientas de análisis de datos representó una solución efectiva para la empresa. Este caso de uso demuestra el poder de los datos y las herramientas analíticas para optimizar procesos, mejorar la toma de decisiones y alcanzar mejores resultados.
