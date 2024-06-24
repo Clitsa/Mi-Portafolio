@@ -42,7 +42,7 @@
 
 **A) Situación:**
 
-Una empresa de consumo masivo necesitaba un nuevo sistema para calcular y pagar las variables de los colaboradores del canal moderno ya que los KPI habían cambiado y sus escalas de pago también. 
+Una empresa de consumo masivo necesitaba un nuevo sistema para calcular y pagar las variables de los colaboradores del canal moderno, ya que los KPI habían cambiado y sus escalas de pago también. 
 
 **B) Solución:**
 
