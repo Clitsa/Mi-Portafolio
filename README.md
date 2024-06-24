@@ -1,6 +1,6 @@
 **CASO DE USO N°1**: **CREACIÓN DE REPORTES DE GESTIÓN**
 
-**A) Situación:**
+**A) Situación Inicial:**
   
   En noviembre de 2022 una empresa de bebidas requería reportes de gestión de gastos completos y precisos desde enero de 2021 hasta la fecha actual. Estos informes eran esenciales para analizar patrones de gasto, identificar áreas de ahorro potencial y tomar decisiones informadas sobre la asignación de recursos.
 
@@ -40,7 +40,7 @@
 
 **CASO DE USO N°2**: **CREACIÓN DE PLANTILLAS DE PAGO VARIABLE**
 
-**A) Situación:**
+**A) Situación Inicial:**
 
 Una empresa de consumo masivo necesitaba un nuevo sistema para calcular y pagar las variables de los colaboradores del canal moderno, ya que los KPI habían cambiado y sus escalas de pago también. 
 
@@ -54,8 +54,8 @@ Observé dos conjuntos de KPI: KPI por tienda y KPI por colaborador, por lo que 
 - Procedimiento:
   Importé los datos de KPI por colaborador.
   Creé columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador por KPI.
-  Creé tablas dinámicas **(imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
-  Generé una columna con fórmulas **(imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
+  Creé tablas dinámicas **(Imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
+  Generé una columna con fórmulas **(Imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
 - Beneficios:
 Medir el pago basado en el rendimiento individual.
 Incentivar el logro de objetivos específicos por parte de los colaboradores.
@@ -65,14 +65,14 @@ Incentivar el logro de objetivos específicos por parte de los colaboradores.
 - Objetivo: Determinar el porcentaje de cumplimiento general de cada tienda en base a los KPI.
 - Procedimiento:
   Importé los datos de KPI por tienda, limpiar la data y filtré solo las tiendas activas del canal moderno.
-  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(imagen 9)**.
+  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(Imagen 9)**.
 - Beneficios:
 Identifica tiendas con bajo rendimiento para implementar acciones correctivas.
 Permite establecer comparaciones entre el rendimiento de las tiendas.
 
 ***3) Integración de plantillas:***
 
-Creé una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(imagen 10)**.
+Creé una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(Imagen 10)**.
 Esta plantilla final muestra el pago total de cada colaborador, considerando tanto su desempeño individual como el cumplimiento general de la tienda.
 La plantilla final proporcionó una visión completa del rendimiento individual y por tienda, facilitando la toma de decisiones informadas para el pago de variables.
 
@@ -88,4 +88,34 @@ La creación de plantillas de pago de variables automatizadas utilizando herrami
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**CASO DE USO N°3: CREACIÓN DE UNA MACRO QUE COMPARA GEOLOCALIZACIONES REALIZADAS VS ESPERADAS**
+**CASO DE USO N°3: AUTOMATIZACIÓN DE LA COMPARACIÓN DE GEOLOCALIZACIÓN DE VISITAS A TIENDAS**
+
+**A) Situación inicial:**
+
+Los gestores de ventas de una empresa visitaban regularmente las tiendas del canal moderno, y era necesario verificar que las visitas se realizaban en la ubicación correcta según la geolocalización registrada para cada tienda. El proceso manual de comparar la geolocalización de cada visita con la de cada tienda era lento y propenso a errores.
+
+**B) Solución:**
+
+Desarrollé dos macros para comparar la geolocalización de las visitas de los gestores con la geolocalización de las tiendas del canal moderno. Las macros consistían en los siguientes pasos:
+
+***1. Creación de una fórmula:***
+
+Creé una fórmula **(Imagen 11)** que combinaba el nombre de la tienda con la latitud y longitud de cada visita registrada por los gestores.
+Esta fórmula permitió tener una vista unificada de la información de ubicación para cada visita.
+
+***2. Desarrollo de macros:***
+
+Creé dos macros **(Imagen 12)**, una para latitud **(Imagen 13)** y otra para longitud **(Imagen 14)**.
+Cada macro compara la parte entera y los primeros 4 dígitos de la parte decimal de la latitud o longitud registrada para cada visita con la latitud o longitud correspondiente de la tienda **(Imagen 15)**.
+
+**C) Resultados:**
+
+La implementación de las macros automatizó el proceso de comparación de geolocalización, reduciendo el tiempo de análisis de 60 minutos a solo 6 minutos en promedio **(Video 1)**.
+Se eliminó la necesidad de realizar comparaciones manuales, lo que redujo significativamente el riesgo de errores.
+Se obtuvo una mayor precisión en la verificación de las visitas a las tiendas, asegurando que los gestores cumplían con sus rutas.
+
+**D) Conclusiones:**
+
+La automatización de la comparación de geolocalización de visitas a tiendas mediante macros demostró ser una solución efectiva para optimizar un proceso manual tedioso y propenso a errores. Este caso de uso ilustra el potencial de las macros para automatizar tareas repetitivas y mejorar la eficiencia en diversos ámbitos empresariales.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
