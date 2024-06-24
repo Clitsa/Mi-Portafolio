@@ -84,6 +84,8 @@ La plantilla final proporcionó una visión completa del rendimiento individual 
 **D)Conclusión:**
 
 La creación de plantillas de pago de variables automatizadas utilizando herramientas de análisis de datos representó una solución efectiva para la empresa. Este caso de uso demuestra el poder de los datos y las herramientas analíticas para optimizar procesos, mejorar la toma de decisiones y alcanzar mejores resultados.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **CASO DE USO N°3: CREACIÓN DE UNA MACRO QUE COMPARA GEOLOCALIZACIONES REALIZADAS VS ESPERADAS**
