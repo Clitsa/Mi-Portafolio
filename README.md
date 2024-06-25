@@ -110,9 +110,7 @@ Cada macro compara la parte entera y los primeros 4 dígitos de la parte decimal
 
 **C) Resultados:**
 
-La implementación de las macros automatizó el proceso de comparación de geolocalización, reduciendo el tiempo de análisis de 2 horas a solo 6 minutos en promedio **(Video 1: https://drive.google.com/file/d/1IrRN5DTtEOmnsuNIqSf6K_c4AsAXhDCV/view?usp=sharing)**.
-Se eliminó la necesidad de realizar comparaciones manuales, lo que redujo significativamente el riesgo de errores.
-Se obtuvo una mayor precisión en la verificación de las visitas a las tiendas, asegurando que los gestores cumplían con sus rutas.
+La implementación de las macros automatizó el proceso de comparación de geolocalización, reduciendo el tiempo de análisis de 2 horas a solo 6 minutos en promedio **(Video 1: https://drive.google.com/file/d/1IrRN5DTtEOmnsuNIqSf6K_c4AsAXhDCV/view?usp=sharing)**. Se eliminó la necesidad de realizar comparaciones manuales, lo que redujo significativamente el riesgo de errores. Se obtuvo una mayor precisión en la verificación de las visitas a las tiendas, asegurando que los gestores cumplían con sus rutas.
 
 **D) Conclusiones:**
 
