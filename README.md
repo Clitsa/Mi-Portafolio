@@ -12,13 +12,13 @@
   - Recopilación de datos: Comencé recopilando todos los datos de facturación desde enero de 2021 hasta la fecha actual. Esto implicó revisar diversas fuentes de archivos digitales, ya que eran 3 tipos de servicio de 25 centros operativos más 1 embotelladora.
   - Limpieza y organización de datos: Una vez recopilados, limpié y organicé los datos para garantizar su precisión y consistencia. Elimine filas duplicadas, correjí errores de formato y aseguré que todos los campos tuvieran nombres y formatos uniformes.
   - Consolidación de datos: Los consolidé en un único archivo de Excel para facilitar el análisis posterior.
-  - Creación de un tablero preliminar en Excel: Diseñé un tablero en Excel **(Imágenes 1 y 2)** como base para la elaboración de informes en Power BI. Esto me permitió definir los KPIs y métricas con claridad y consistencia, y comenzar a ajustar las visualizaciones a las necesidades de los usuarios, las cuales eran evidenciadas en cada reunión que teníamos para exponer los resultados del mes en curso.
+  - Creación de un tablero preliminar en Excel: Diseñé un tablero en Excel **(Imágenes 1.1 y 1.2)** como base para la elaboración de informes en Power BI. Esto me permitió definir los KPIs y métricas con claridad y consistencia, y comenzar a ajustar las visualizaciones a las necesidades de los usuarios, las cuales eran evidenciadas en cada reunión que teníamos para exponer los resultados del mes en curso.
 
 ***2. Creación de informes en Power BI:***
   - Importación de datos: Importé el archivo de Excel consolidado a Power BI.
   - Modelado de datos: Creé un modelo de datos que representaba las relaciones entre las diferentes tablas de datos. Esto me permitió realizar análisis más profundos, complejos y precisos.
   - Visualizaciones: Utilicé diversas visualizaciones de Power BI, como gráficos de barras, de líneas, circular y matrices, para presentar los datos de manera clara, concisa y atractiva.
-  - Reportes: Agrupé los cuadros de mando y visualizaciones creadas en reportes completos **(Imágenes 3, 4, 5 y 6)** que proporcionaban una visión general de los gastos de la empresa.
+  - Reportes: Agrupé los cuadros de mando y visualizaciones creadas en reportes completos **(Imágenes 1.3, 1.4, 1.5 y 1.6)** que proporcionaban una visión general de los gastos de la empresa.
 
 ***3. Gestión de los informes en Power BI:***
   - Obtener Licencias Pro de Power BI: Gestioné la obtención de las licencias para los usuarios de los informes con el Área de Compras y resolví junto con TI las incidencias que surgieron para su ejecución.
@@ -54,8 +54,8 @@ Observé dos conjuntos de KPI: KPI por tienda y KPI por colaborador, por lo que 
 - Procedimiento:
   Importé los datos de KPI por colaborador.
   Creé columnas con fórmulas para obtener el porcentaje de cumplimiento de cada colaborador por KPI.
-  Creé tablas dinámicas **(Imagen 7)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
-  Generé una columna con fórmulas **(Imagen 8)** para obtener el pago total según el desempeño individual de cada colaborador.
+  Creé tablas dinámicas **(Imagen 2.1)** para relacionar el porcentaje de cumplimiento con una escala de pago predefinida.
+  Generé una columna con fórmulas **(Imagen 2.2)** para obtener el pago total según el desempeño individual de cada colaborador.
 - Beneficios:
 Medir el pago basado en el rendimiento individual.
 Incentivar el logro de objetivos específicos por parte de los colaboradores.
@@ -65,14 +65,14 @@ Incentivar el logro de objetivos específicos por parte de los colaboradores.
 - Objetivo: Determinar el porcentaje de cumplimiento general de cada tienda en base a los KPI.
 - Procedimiento:
   Importé los datos de KPI por tienda, limpiar la data y filtré solo las tiendas activas del canal moderno.
-  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(Imagen 9)**.
+  Creé columnas con fórmulas para obtener el porcentaje de cumplimiento por tienda **(Imagen 2.3)**.
 - Beneficios:
 Identifica tiendas con bajo rendimiento para implementar acciones correctivas.
 Permite establecer comparaciones entre el rendimiento de las tiendas.
 
 ***3) Integración de plantillas:***
 
-Creé una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(Imagen 10)**.
+Creé una plantilla final que consolidaba los resultados de las dos plantillas anteriores **(Imagen 2.4)**.
 Esta plantilla final muestra el pago total de cada colaborador, considerando tanto su desempeño individual como el cumplimiento general de la tienda.
 La plantilla final proporcionó una visión completa del rendimiento individual y por tienda, facilitando la toma de decisiones informadas para el pago de variables.
 
@@ -100,17 +100,17 @@ Desarrollé dos macros para comparar la geolocalización de las visitas de los g
 
 ***1. Creación de una fórmula:***
 
-Creé una fórmula **(Imagen 11)** que combinaba el nombre de la tienda con la latitud y longitud de cada visita registrada por los gestores.
+Creé una fórmula **(Imagen 3.1)** que combinaba el nombre de la tienda con la latitud y longitud de cada visita registrada por los gestores.
 Esta fórmula permitió tener una vista unificada de la información de ubicación para cada visita.
 
 ***2. Desarrollo de macros:***
 
-Creé dos macros **(Imagen 12)**, una para latitud **(Imagen 13)** y otra para longitud **(Imagen 14)**.
-Cada macro compara la parte entera y los primeros 4 dígitos de la parte decimal de la latitud o longitud registrada para cada visita con la latitud o longitud correspondiente de la tienda **(Imagen 15)**.
+Creé dos macros **(Imagen 3.2)**, una para latitud **(Imagen 3.3)** y otra para longitud **(Imagen 3.4)**.
+Cada macro compara la parte entera y los primeros 4 dígitos de la parte decimal de la latitud o longitud registrada para cada visita con la latitud o longitud correspondiente de la tienda **(Imagen 3.5)**.
 
 **C) Resultados:**
 
-La implementación de las macros automatizó el proceso de comparación de geolocalización, reduciendo el tiempo de análisis de 60 minutos a solo 6 minutos en promedio **(Video 1: https://drive.google.com/file/d/1IrRN5DTtEOmnsuNIqSf6K_c4AsAXhDCV/view?usp=sharing)**.
+La implementación de las macros automatizó el proceso de comparación de geolocalización, reduciendo el tiempo de análisis de 2 horas a solo 6 minutos en promedio **(Video 1: https://drive.google.com/file/d/1IrRN5DTtEOmnsuNIqSf6K_c4AsAXhDCV/view?usp=sharing)**.
 Se eliminó la necesidad de realizar comparaciones manuales, lo que redujo significativamente el riesgo de errores.
 Se obtuvo una mayor precisión en la verificación de las visitas a las tiendas, asegurando que los gestores cumplían con sus rutas.
 
